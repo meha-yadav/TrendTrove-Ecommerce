@@ -23,6 +23,7 @@ Welcome to **TrendTrove**, an e-commerce platform designed to offer the latest t
            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Tejashri-Taral/TrendTrove-Ecommerce?style=flat&color=critical&logo=github"/></td>
            <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Tejashri-Taral/TrendTrove-Ecommerce?style=flat&color=green&logo=github"></td>
          <td><img alt="GitHub Contributors count" src="https://img.shields.io/github/contributors/Tejashri-Taral/TrendTrove-Ecommerce?style=flat&color=blue&logo=github"/></td>
+         
         </tr>
     </tbody>
 </table>
